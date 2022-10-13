@@ -24,7 +24,8 @@ int main() {
     sum = integerOne + integerTwo;
 
     // output
-    std::cout << "\nSum is " << (integerOne) << " + " << (integerTwo) << " = " << (sum) << std::endl;
+    std::cout << "\nSum is " << (integerOne) << " + " << (integerTwo) << " = " 
+        << (sum) << std::endl;
 
     std::cout << "\nDone." << std::endl;
 }
